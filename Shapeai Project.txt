@@ -1,0 +1,5 @@
+Weather Stats for - UDUPI  || 22 Jun 2021 | 02:57:23 PM
+Current temperature is: 27.58 deg C
+Current weather desc  :overcast clouds
+Current Humidity      :85 %
+Current wind speed    :2.36 kmph
