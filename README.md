@@ -1,1 +1,1 @@
-# Shapeai
+# Shapeai Weather Project
